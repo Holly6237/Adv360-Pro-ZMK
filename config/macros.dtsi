@@ -6,7 +6,7 @@ bindings = <&kp LCTRL(V)>;
 };
 macro_macro_copy: macro_macro_copy{
 compatible = "zmk,behavior-macro";
-label = "macro_copy";
+label = "macro_macro_copy";
 #binding-cells = <0>;
 bindings = <&kp LCTRL(C)>;
 };
